@@ -1,5 +1,3 @@
-import org.w3c.dom.css.Rect;
-
 public class Rectangle {
     private int length;
     private int width;
