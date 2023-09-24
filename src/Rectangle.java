@@ -1,7 +1,6 @@
 public class Rectangle {
     private int length;
     private int width;
-
     private int x;
     private int y;
 
